@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTheme">#ffce3d3a</color>
+    <!--页面背景的颜色-->
+    <color name="color_page_bg">#f1f3f4</color>>
+
+    <color name="colorWhite">#ffffffff</color>
+
+</resources>
