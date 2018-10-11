@@ -3,7 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-<<<<<<< HEAD
 
     <color name="colorTheme">#ffce3d3a</color>
     <!--页面背景的颜色-->
@@ -11,6 +10,4 @@
 
     <color name="colorWhite">#ffffffff</color>
 
-=======
->>>>>>> 47291dfc8b6b71312e2904235e406d2447c40661
 </resources>
