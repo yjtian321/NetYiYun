@@ -10,4 +10,15 @@
 
     <color name="colorWhite">#ffffffff</color>
 
+    <!--透明色-->
+    <color name="colorTransparent">#00000000</color>
+
+    <!--正文文字颜色-->
+    <color name="colorContent">#ff333333</color>
+
+    <!--侧边栏分割线-->
+    <color name="colorNavLine">#E0E0E0</color>
+
+
+
 </resources>
