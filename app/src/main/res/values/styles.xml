@@ -1,6 +1,7 @@
 <resources>
 
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="AppTheme" parent="MyThemeRed" />
     <!--网易红为主色调-->
     <style name="MyThemeRed" parent="Theme.AppCompat.Light.NoActionBar">
@@ -39,4 +40,13 @@
     </style>
 
 
+=======
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+>>>>>>> 47291dfc8b6b71312e2904235e406d2447c40661
 </resources>
