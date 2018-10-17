@@ -33,4 +33,11 @@ dependencies {
 
     implementation "com.android.support:design:27.1.1"
 
+    //rx
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.2.0'
+    implementation 'io.reactivex:rxandroid:1.2.1'
+
+    //implementation project(path: ':1710lib')
+    //implementation project(path: ':library:xrecyclerview')
+
 }
